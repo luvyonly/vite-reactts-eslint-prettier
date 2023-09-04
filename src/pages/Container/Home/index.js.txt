@@ -1,0 +1,49 @@
+//
+
+import React from "react";
+// Import Swiper React components
+import { Swiper, SwiperSlide } from "swiper/react";
+import bannerImg from "./../../../assets/img/img_banner.jpg";
+
+// Import Swiper styles
+import "swiper/css";
+import "swiper/css/pagination";
+
+import "./styles.css";
+
+// import required modules
+import { Pagination } from "swiper/modules";
+import Category from "./Category";
+
+export default function App() {
+  // const image = { bannerImg };
+  const image1 =
+    "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/8I37NtDffNV7AZlDa7uDvvqhovU.jpg";
+  const image2 =
+    "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/8I37NtDffNV7AZlDa7uDvvqhovU.jpg";
+  return (
+    <>
+      <Swiper
+        slidesPerView={"auto"}
+        centeredSlides={true}
+        spaceBetween={30}
+        pagination={{
+          clickable: true,
+        }}
+        modules={[Pagination]}
+        className="mySwiper"
+      >
+        <SwiperSlide>
+          <img src={bannerImg} />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={image1} />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={image2} />
+        </SwiperSlide>
+      </Swiper>
+      <Category />
+    </>
+  );
+}

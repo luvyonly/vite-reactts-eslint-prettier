@@ -1,0 +1,27 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="28" cy="29.961" rx="21.9688" ry="13.166" fill="white" stroke="#333333" stroke-width="1.5"/>
+<ellipse cx="28.0001" cy="29.8544" rx="18.6724" ry="10.5729" fill="white" stroke="#333333" stroke-width="1.5"/>
+<ellipse cx="27.4392" cy="30.6211" rx="13.2415" ry="7.70093" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.4519 22.1571C14.4613 22.1487 14.4611 22.134 14.4514 22.126V22.126C14.4414 22.1177 14.4416 22.1022 14.4517 22.0942L24.0588 14.4734C24.2793 14.2985 24.5126 14.1394 24.7658 14.0165C26.8741 12.9931 29.5798 12.7583 32.8355 13.7601C41.0743 16.2951 42.498 24.6383 42.7441 29.3618C42.8231 30.8799 42.1039 32.3148 40.9162 33.2636L36.4925 36.7974C35.1266 37.8886 33.2899 38.187 31.6487 37.5845L14.2136 31.184C12.3261 30.491 11.0012 28.6324 11.5989 26.7126C12.1498 24.9436 13.1086 23.3509 14.4519 22.1571Z" fill="white" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M24.1109 20.5443C17.1479 18.3715 12.7896 22.2416 11.4883 27.2097C11.0513 28.8778 12.1764 30.4611 13.7971 31.05L32.468 37.8342C33.1202 38.0712 33.8128 37.5924 33.7954 36.8987C33.685 32.5016 32.7106 23.2277 24.1109 20.5443Z" stroke="#333333" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22.4318 34.0567C22.4087 33.2925 21.7264 31.3158 20.4767 30.8738C19.3456 30.4737 19.1842 31.7321 19.0615 32.6709" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M31.5826 25.6477L39.5575 19.0304" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M35.5702 28.0252L39.6989 25.1598" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M30.8193 20.866L34.948 18.0006" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M27.7445 19.03L31.8732 16.1646" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M24.0684 18.0305L28.197 15.1651" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M36.4186 30.7971L40.5472 27.9317" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="26.3069" y="11.8111" width="2.39994" height="2.41187" rx="0.5" transform="rotate(71.3251 26.3069 11.8111)" fill="white" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="16.2052" y="18.6793" width="2.39994" height="2.41187" rx="0.5" transform="rotate(71.3251 16.2052 18.6793)" fill="white" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="38.3361" y="21.8756" width="2.09373" height="3.93617" rx="0.5" transform="rotate(87.3445 38.3361 21.8756)" fill="white" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="44.2761" y="29.2159" width="2.09373" height="3.93617" rx="0.5" transform="rotate(71.3251 44.2761 29.2159)" fill="white" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="26.8899" y="23.5333" width="2.09373" height="3.93617" rx="0.5" transform="rotate(117.35 26.8899 23.5333)" fill="white" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="16.1716" y="25.1598" width="2.09373" height="3.93617" rx="0.5" transform="rotate(37.363 16.1716 25.1598)" fill="white" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="26.547" y="32.0934" width="2.09373" height="3.93617" rx="0.5" transform="rotate(152.282 26.547 32.0934)" fill="white" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M30.2613 36.8434C30.1453 33.1177 31.1732 27.357 22.4333 23.7768C16.8839 21.5035 13.9594 25.5097 13.3438 30.087" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M27.3137 35.8738C27.2323 33.2709 27.5042 28.3409 23.1043 26.8352C17.9114 25.0582 15.8788 27.9557 15.447 31.1536" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M24.6935 34.9053C24.6428 33.2705 24.0032 29.7594 21.2593 28.8137C18.7755 27.9577 17.5624 29.932 17.2931 31.9406" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="31.3142" y="29.5587" width="2.39994" height="2.41187" rx="0.5" transform="rotate(71.3251 31.3142 29.5587)" fill="white" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="41.3054" y="17.5069" width="2.39994" height="2.41187" rx="0.5" transform="rotate(71.3251 41.3054 17.5069)" fill="white" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="39.2411" y="33.7975" width="2.39994" height="2.41187" rx="0.5" transform="rotate(71.3251 39.2411 33.7975)" fill="white" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

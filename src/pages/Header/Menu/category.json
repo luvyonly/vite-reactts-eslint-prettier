@@ -1,0 +1,258 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "title": "나물•무침",
+      "iconImage": "icon_on_namul.svg",
+      "onIconImage": "icon_off_namul.svg",
+      "toLink": "",
+      "sub": [
+        {
+          "id": 1,
+          "subTitle": "전체",
+          "toLink": ""
+        },
+        {
+          "id": 2,
+          "subTitle": "나물",
+          "toLink": ""
+        },
+        {
+          "id": 3,
+          "subTitle": "무침",
+          "toLink": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "국•찌개",
+      "iconImage": "icon_on_soup.svg",
+      "onIconImage": "icon_off_soup.svg",
+      "toLink": "",
+      "sub": [
+        {
+          "id": 1,
+          "subTitle": "전체",
+          "toLink": ""
+        },
+        {
+          "id": 2,
+          "subTitle": "국•탕",
+          "toLink": ""
+        },
+        {
+          "id": 3,
+          "subTitle": "찌개•전골",
+          "toLink": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "1인분",
+      "iconImage": "icon_on_single.svg",
+      "onIconImage": "icon_off_single.svg",
+      "sub": []
+    },
+    {
+      "id": 4,
+      "title": "식재료",
+      "iconImage": "icon_on_ingredient.svg",
+      "onIconImage": "icon_off_ingredient.svg",
+      "sub": [
+        {
+          "id": 1,
+          "subTitle": "전체"
+        },
+        {
+          "id": 2,
+          "subTitle": "야채"
+        },
+        {
+          "id": 3,
+          "subTitle": "수산•건어물"
+        },
+        {
+          "id": 4,
+          "subTitle": "견과류•두부"
+        },
+        {
+          "id": 5,
+          "subTitle": "참치•햄•통조림"
+        },
+        {
+          "id": 6,
+          "subTitle": "음료"
+        },
+        {
+          "id": 7,
+          "subTitle": "소스•향식료"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "조림•볶음•찜",
+      "iconImage": "icon_on_steam.svg",
+      "onIconImage": "icon_off_steam.svg",
+      "sub": [
+        {
+          "id": 1,
+          "subTitle": "전체"
+        },
+        {
+          "id": 2,
+          "subTitle": "조림"
+        },
+        {
+          "id": 3,
+          "subTitle": "볶음"
+        },
+        {
+          "id": 4,
+          "subTitle": "찜"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "정육•양념육",
+      "iconImage": "icon_on_rawmeat.svg",
+      "onIconImage": "icon_off_rawmeat.svg",
+      "sub": [
+        {
+          "id": 1,
+          "subTitle": "전체"
+        },
+        {
+          "id": 2,
+          "subTitle": "정육"
+        },
+        {
+          "id": 3,
+          "subTitle": "양념육"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "김치•절임류",
+      "iconImage": "icon_on_kimchi.svg",
+      "onIconImage": "icon_off_kimchi.svg",
+      "sub": [
+        {
+          "id": 1,
+          "subTitle": "전체"
+        },
+        {
+          "id": 2,
+          "subTitle": "김치"
+        },
+        {
+          "id": 3,
+          "subTitle": "절임•장아찌"
+        },
+        {
+          "id": 4,
+          "subTitle": "젓갈"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "구이•전",
+      "iconImage": "icon_on_jeon.svg",
+      "onIconImage": "icon_off_jeon.svg",
+      "sub": [
+        {
+          "id": 1,
+          "subTitle": "전체"
+        },
+        {
+          "id": 2,
+          "subTitle": "구이"
+        },
+        {
+          "id": 3,
+          "subTitle": "전"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "밥•면•떡",
+      "iconImage": "icon_on_rice.svg",
+      "onIconImage": "icon_off_rice.svg",
+      "sub": [
+        {
+          "id": 1,
+          "subTitle": "전체"
+        },
+        {
+          "id": 2,
+          "subTitle": "밥"
+        },
+        {
+          "id": 3,
+          "subTitle": "면"
+        },
+        {
+          "id": 4,
+          "subTitle": "떡"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "샐러드",
+      "iconImage": "icon_on_salad.svg",
+      "onIconImage": "icon_off_salad.svg",
+      "sub": [
+        {
+          "id": 1,
+          "subTitle": "전체"
+        },
+        {
+          "id": 2,
+          "subTitle": "샐러드"
+        },
+        {
+          "id": 3,
+          "subTitle": "도시락"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "간편냉동",
+      "iconImage": "icon_on_frozen.svg",
+      "onIconImage": "icon_off_frozen.svg",
+      "sub": [
+        {
+          "id": 1,
+          "subTitle": "전체"
+        },
+        {
+          "id": 2,
+          "subTitle": "만두•떡볶이•간식"
+        },
+        {
+          "id": 3,
+          "subTitle": "돈까스•튀김•육류"
+        },
+        {
+          "id": 4,
+          "subTitle": "빵•디저트"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "밀키트",
+      "iconImage": "icon_on_mealkit.svg",
+      "onIconImage": "icon_off_mealkit.svg",
+      "sub": []
+    }
+  ]
+}
